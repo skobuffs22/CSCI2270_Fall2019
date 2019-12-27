@@ -1,0 +1,12 @@
+/* =====================  CSCI 2270 - DATA STRUCTURES PROJECT  ===================== */
+/* Written by:  Madisen Purifoy-Frie (SID: 107833596)
+                Trevor Green         (SID: 106079583) 
+
+To run the code:
+  g++ driver.cpp
+The rest of the files (including the data sets) are included in the driver.cpp file
+
+NOTE:
+    Every option in the menu does work and should not throw any errors; however, the
+CuckooHash.cpp has a seg fault error that we were unable to fix. It is explained in
+more detail in the report but the code should still run the rest of the files anyways.
